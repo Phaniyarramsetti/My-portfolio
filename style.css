@@ -247,7 +247,10 @@
     background-size: cover;
 }
 .footer-image {
-    border-radius: 40px;
+    border-radius: 50px;
+    height:60px;
+    width:60px;
+    
 }
 .footer-heading {
     color: #cced00;
