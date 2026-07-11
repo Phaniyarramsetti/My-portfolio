@@ -29,16 +29,8 @@
 }
 .style {
     color: #4b6cc1;
-}
-.custom-button{
-    color:white;
-    background-color:#4b6cc1;
-    width:130px;
-    height:45px;
-    border-width:0px;
-    border-radius:8px; 
-}
 
+}
 
 .bg-container {
     background-color: #323f4b;
@@ -96,8 +88,6 @@
     margin-top: 10px;
 }
 
-
-
 .service-container {
     background-color: #52606d;
     background-size: cover;
@@ -135,7 +125,6 @@
     font-family: "Roboto";
     font-size: 23px;
 }
-
 
 .projects-container {
     background-color: #3e4c59;
@@ -190,13 +179,10 @@
     font-weight: bold;
 }
 
-
-
 .workdone-container {
     background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png");
     background-size: cover;
     height:50vh;
-
 }
 .icon {
     color:#ffffff;
@@ -217,7 +203,6 @@
     font-family: "Roboto";
     font-weight: bold;
 }
-
 
 .testimonials-bg-container {
     background-color: #1f2933;
@@ -256,7 +241,6 @@
     font-size: 22px;
     font-family: "Roboto";
 }
-
 
 .footer-bg-container {
     background-color: #0d2436;
